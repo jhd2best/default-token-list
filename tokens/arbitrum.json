@@ -408,5 +408,13 @@
     "symbol": "BUCK",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0xAFD871f684F21Ab9D7137608C71808f83D75e6fc/logo.png"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x2338a5d62e9a766289934e8d2e83a443e8065b83",
+    "name": "Flux Protocol",
+    "symbol": "FLUX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0x2338a5d62e9a766289934e8d2e83a443e8065b83/logo.png"
   }
 ]
